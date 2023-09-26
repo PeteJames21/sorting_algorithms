@@ -23,3 +23,9 @@ Defines a function that sorts a doubly linked list of integers in ascending orde
 
 ## 101-O
 Lists the best, average, and worst case big O notation of the Cocktail Shaker sort algorithm, respectively.
+
+## 102-counting_sort.c
+Defines a function that sorts an array of positive integers in ascending order using the Counting sort algorithm. The counting array is printed once it is set up.
+
+## 102-O
+Lists the best, average, and worst case big O notation of the Counting sort algorithm, respectively.
