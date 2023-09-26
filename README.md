@@ -17,3 +17,9 @@ Defines a function that sorts an array of integers in ascending order using the 
 
 ## 2-O
 Lists the best, average, and worst case big O notation of the Selection sort algorithm, respectively.
+
+## 101-cocktail_sort_list.c
+Defines a function that sorts a doubly linked list of integers in ascending order using the Cocktail Shaker sort algorithm. The algorithm remembers where the last actual swap had been done. In each pass, there will be no swaps beyond this limit and the algorithm therefore has shorter passes in each successive iteration.
+
+## 101-O
+Lists the best, average, and worst case big O notation of the Cocktail Shaker sort algorithm, respectively.
