@@ -7,7 +7,7 @@ Defines a function that sorts an array of integers in ascending order using the 
 Lists the best, average, and worst case big O notation of the Bubble sort algorithm, respectively.
 
 ## 1-insertion_sort_list.c
-Write a function that sorts a doubly linked list of integers in ascending order using the Insertion sort algorithm
+Defines a function that sorts a doubly linked list of integers in ascending order using the Insertion sort algorithm
 
 ## 1-0
 Lists the best, average, and worst case big O notation of the Insertion sort algorithm, respectively.
